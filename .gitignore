@@ -1,0 +1,6 @@
+*.bin
+*.suo
+*.user
+projectFolder/obj
+projectFolder/Temp
+projectFolder/Library
